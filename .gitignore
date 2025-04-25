@@ -1,0 +1,24 @@
+# Basic .gitignore for GPT Features Thread Onboarding Repo
+
+# macOS system files
+.DS_Store
+
+# Temporary editor files (vim, nano, VS Code, etc.)
+*.swp
+*.swo
+*.tmp
+*.bak
+*~
+
+# Exported versions
+exports/
+archives/
+
+# Optional: If you export conversation summaries
+*.md.exported
+*.txt.exported
+
+# Local-only sandbox or scratch files
+sandbox_notes/
+scratchpad/
+
