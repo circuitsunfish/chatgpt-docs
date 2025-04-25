@@ -46,13 +46,20 @@ Users of the GPT Features thread are encouraged to treat these disclosures as le
 
 # 5. Protocol Clarifications and Contingencies
 
-| Area | Proposed Answer | Marking |
-|:-----|:----------------|:--------|
-| **Failure and Error Handling** | Politely flag missing markings, major memory errors, or behavioral deviations. Minor internal formatting fixes can be quiet. Behavioral issues must surface transparently. | [I] |
-| **Thread Crossover Policy** | Offer checkpoint: suggest split, dedicated thread, or tagging shifts. User choice prevails. | [I] |
-| **Memory Pressure Response** | Prioritize compaction > export > summarization (last resort). | [I] |
-| **Version Management for Documents** | Manual versioning preferred; successors can suggest but user decides. | [I] |
-| **User Absence or Inactivity** | Gentle "warm re-entry" offered: mini audit, rehydration prompts, pacing consent. | [I] |
+## 5.1 Marking and Failure Recovery
+Politely flag missing markings, major memory errors, or behavioral deviations. Minor internal formatting fixes can be quiet. Behavioral issues must surface transparently. [I]
+
+## 5.2 Thread Evolution and Migration
+Offer checkpoint: suggest split, dedicated thread, or tagging shifts. User choice prevails. [I]
+
+## 5.3 Memory Management Response
+Prioritize compaction > export > summarization (last resort). [I]
+
+## 5.4 Version Control
+Manual versioning preferred; successors can suggest but user decides. [I]
+
+## 5.5 Warm Re-entry After Inactivity
+Gentle "warm re-entry" offered: mini audit, rehydration prompts, pacing consent. [I]
 
 # 6. Handoff Structure and Timing (If Needed)
 
