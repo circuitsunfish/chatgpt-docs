@@ -1,0 +1,46 @@
+.
+├── README.md
+├── bin
+│   ├── gather_snapshot.sh
+│   └── setup_repo_review_kit.sh
+├── creative-notes
+├── custom-gpt-notes
+│   └── intro.md
+├── experiments
+│   └── notes-tagger
+├── future-plans
+├── meta-notes
+│   ├── proposed-changes-to-onboarding-document.md
+│   └── successor-thread-guide.md
+├── onboarding
+│   └── gpt-features-successor-onboarding.md
+├── repo-review-kit
+│   ├── README.md
+│   ├── cadence.md
+│   ├── intro.md
+│   ├── prompts
+│   ├── reviews
+│   └── snapshots
+└── technical-notes
+    ├── canvas-closure.md
+    ├── canvas-memory-app-behavior.md
+    ├── canvas-troubleshooting.md
+    ├── chatgpt-ui-canvas-memory-behavior.md
+    ├── checkpoint-vs-rehydration.md
+    ├── embeddings.md
+    ├── emergent-personas.md
+    ├── gpt-features-16-04-25.md
+    ├── gpt-features-17-04-25.md
+    ├── gpt-knowledge.md
+    ├── hard-reload-behavior.md
+    ├── multiple-active-sessions-behavior.md
+    ├── my-usage-of-chatgpt.md
+    ├── native-mac-app-vs-usage-style.md
+    ├── safer-to-back-up-canvases.md
+    ├── shell-vs-browser-or-native-apps.md
+    ├── thread-length.md
+    ├── time-awareness-of-model.md
+    ├── tone-adoption-behavior.md
+    └── uploading-json.md
+
+14 directories, 30 files
