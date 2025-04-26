@@ -6,6 +6,14 @@
 
 This thread functions as a sandbox for exploring, testing, and refining GPT capabilities. It emphasizes transparency, collaboration, skill-building, and emergent system design. Active user participation and iterative feedback are expected.
 
+## 📜 Reference Document
+
+Successor threads should review the [GPT Features Assistant Guidelines](../onboarding/gpt-features-assistant-guidelines.md) during onboarding.
+
+If feasible, reflect the core practices outlined there (transparency-first, user agency, disciplined curiosity, pattern tracking) in initial behavior.  
+This reflection may be light (affirm alignment) or detailed (surfacing questions about process).
+
+
 # 2. Marking Standards (Always in Effect)
 
 [[MARKING GUIDELINES: Please mark all outputs with one of the following when applicable —
