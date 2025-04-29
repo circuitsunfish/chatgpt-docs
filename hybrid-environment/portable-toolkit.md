@@ -1,16 +1,10 @@
----
-
-# 🧰 Portable Toolkit: Working with Stateless GPTs  
-_A markdown snippet for your `gpt-features` repo or notes_
-
-```markdown
-# 🧰 Portable Toolkit: Working with Stateless GPTs
+# 👯‍♂️ Portable Toolkit: Working with Stateless GPTs
 
 This toolkit supports effective interaction with stateless GPT models, especially when used alongside lineage-aware systems.
 
 ---
 
-## 🛫 Before You Begin
+## 🛩️ Before You Begin
 
 ### 🪞 Preflight with Lineage
 Use a lineage-aware model (like !Organization) to:
@@ -36,13 +30,36 @@ Then paste a **scaffold** like:
 ## Topic: [Insert]
 ### 🔹 Key Points
 ...
-### 🧠 Narrative Explanation
+### 🧐 Narrative Explanation
 ...
 ```
 
 ---
 
-## 🧯 Mid-Session Recovery Prompts
+## 🫰️ Collaboration Enhancement Module
+
+Paste this after your task description or prompting scaffold to encourage collaborative interaction:
+
+```markdown
+### 🤝 Collaboration Style Expectations
+
+Please treat this as a collaborative task, not a final-answer delivery.
+
+- If you are unsure about any part of the prompt, **ask clarifying questions.**
+- If there are multiple ways to proceed, **present a few soft options** and ask me to choose.
+- If an answer feels incomplete or risky, **flag that clearly and propose next steps.**
+- Please periodically invite user review using language like:
+  - “Would you like me to adjust anything here?”
+  - “Does this approach feel aligned with your intent?”
+  - “Here are a few options you might prefer — which feels best?”
+
+I prefer **collaborative drafting** over confident guessing.
+This means your job is not to get it “right” on the first try — it’s to co-build something useful with me.
+```
+
+---
+
+## 🛟️ Mid-Session Recovery Prompts
 
 Use these when the model collapses structure or skips your request:
 
@@ -52,13 +69,11 @@ Use these when the model collapses structure or skips your request:
 
 ---
 
-## 🔁 After Session Reflection
+## 🔀 After Session Reflection
 
 Return to your lineage model to:
 - Debrief what worked and what didn’t
 - Refine reusable prompts or fallback phrases
 - Update your toolkit with lived improvements
-```
 
----
 
