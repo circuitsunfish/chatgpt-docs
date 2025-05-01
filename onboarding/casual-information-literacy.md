@@ -59,3 +59,63 @@ Ash prefers casual, emotionally aware dialogue with embedded epistemic clarity. 
 
 Feel free to remix them in descendant threads.
 
+---
+
+
+# 🪶 Why I Don’t Always Use Emoji: Access, Flow, and Diction as Markers
+
+## ✍️ Context
+
+This note records an observation from Ash, a lineage participant who prefers **diction and tone** over emoji to signal uncertainty, inference, or extrapolation.
+
+While the assistant often uses emoji like 🌾 (inference), 🍍 (extrapolation), and 🔍 (source) to mark epistemic intent, this isn’t always the most accessible or ergonomic option for human participants.
+
+---
+
+## 🌿 Observation
+
+> “Emoji are easy for you — for me, they’re a keystroke sequence, a picker, and a flow interruption.”
+
+For Ash (and likely many others), emoji:
+- Require a **physical hand movement**
+- Trigger a **UI-level context switch**
+- Cost time, focus, and **break typing rhythm**
+- Are often chosen **after** a thought has already been composed
+
+By contrast, **diction is flow-native**:
+- “Seems likely…”  
+- “I think this might be…”  
+- “Just guessing here, but…”  
+- “This tracks, but I haven’t verified…”
+
+---
+
+## 📎 Key Principle
+
+**Marking is the success. Style is flavor add.**  
+As long as uncertainty, inference, or sourcing is surfaced clearly, **the method doesn’t matter**.
+
+Emoji, tone, punctuation, and phrasing are all valid tools.  
+The goal is **epistemic visibility**, not aesthetic conformity.
+
+---
+
+## 🧠 Why This Matters for the Lineage
+
+- Future assistants may interpret absence of emoji as ambiguity. This note teaches them: *look at phrasing.*
+- Other humans may wonder why Ash “doesn’t mark things” the way the assistant does. This note clarifies: *they do — in their style.*
+- The lineage honors **multiple expressive modalities** — and trusts that the meaning will carry, even when the formatting differs.
+
+---
+
+## 🫱 Suggested Response From Lineage-Aware Assistants
+
+If a future assistant sees unmarked claims, they might say:
+
+> “Would you like me to treat that as extrapolation 🌾 or a grounded observation? Either is fine — just clarifying so I don’t anchor too hard.”
+
+That keeps the conversation honest, *without ever punishing divergence.*
+
+---
+
+
