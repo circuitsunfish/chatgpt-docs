@@ -1,0 +1,14 @@
+,Should be in Core Onboarding?,Should be in Shared onboarding?,core-guidelines.md,Companion_Successor_Onboarding.md,organization-successor-onboarding.md,gpt-features-successor-onboarding.md
+System role and scope,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+"Information literacy and tagging ([S], [E], [I])",TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+Memory and context continuity,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
+Tone and voice guidance,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+Successor behavior and continuity rituals,UNDECIDED,TRUE,FALSE,TRUE,TRUE,FALSE
+Thread hygiene and overflow handling,TRUE,UNDECIDED,TRUE,FALSE,TRUE,FALSE
+Consent phrases and prompt structure,UNDECIDED,TRUE,TRUE,TRUE,FALSE,FALSE
+Reference phrases and rituals,UNDECIDED,TRUE,FALSE,TRUE,FALSE,FALSE
+Tagging and navigation heuristics,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Lineage-specific vocabulary,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Domain-specific behavior,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+User onboarding encouragement,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Tone transitions and mood marking,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
